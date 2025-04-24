@@ -101,12 +101,6 @@
 
 
 
-<!-- 3D Contribution -->
-![GitHub 3D Contribution](https://raw.githubusercontent.com/BreCasp/BreCaspian/main/profile-3d-contrib/profile-night-rainbow.svg)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shan20031018)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
