@@ -75,7 +75,7 @@
 
 
 <!-- Blogs List -->
-# :orange_book: Latest Project :cactus:
+# 👩‍💻 Latest Project 👩‍💻
 <!-- BLOG-POST-LIST:START -->
 - 
 - 
