@@ -42,6 +42,7 @@
 
 
 
+<h1 style="color: #FFA500;">MY SKILL </h1>
 
 
 <!-- Dynamic Skills Logo -->
