@@ -71,7 +71,7 @@
 
 
 <!-- Stats Card -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lin20031018&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lin20031018\&rank_icon=github)
 
 
 
@@ -92,9 +92,8 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=lin20031018&theme=tokyo-night" />
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lin20031018&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=lin20031018&theme=tokyo-night" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=lin20031018&theme=xcode" />
       </picture>
   </tr>
 </table>
