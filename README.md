@@ -78,8 +78,9 @@
 <!-- Blogs List -->
 # 👩‍💻 Latest Project 👩‍💻
 <!-- BLOG-POST-LIST:START -->
-- 
-- 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" alt="Automobile" width="25" height="25" />[Speeding Violation Reporting Managemen System](https://github.com/lin20031018/Speeding-Violation-Reporting-Management-System)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" alt="Automobile" width="25" height="25" /><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Elevator.png" alt="Elevator" width="25" height="25" />[People-flow-detection](https://github.com/lin20031018/People-flow-detection)<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Elevator.png" alt="Elevator" width="25" height="25" />
+ 
 <!-- BLOG-POST-LIST:END -->
 
 
